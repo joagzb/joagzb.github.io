@@ -11,14 +11,39 @@ tags: [Android, Flutter, mobile, Firebase, nodejs] # add tag
 
 ---
 
+## APP frames
+
+![doctorea-app-images1]({{site.baseurl}}/assets/img/doctorea/imagenes_doctorea1.jpg)
+
+![doctorea-app-images2]({{site.baseurl}}/assets/img/doctorea/imagenes_doctorea2.jpg)
+
+---
+
 ## Languages, tools and frameworks
 
-- Android
-- Flutter
-- Nodejs
-- Google Maps
-- Firebase (server, Firestore, messaging push)
-- Hive (local cached database, likewise Redis)
+![development-stack]({{site.baseurl}}/assets/img/doctorea/herramientas.jpg)
+
+---
+## Architecture pattern
+
+![Architecture pattern]({{site.baseurl}}/assets/img/doctorea/arquitectura.jpg)
+
+---
+## Testing
+
+![testing-cap-1]({{site.baseurl}}/assets/img/doctorea/testing1.jpg)
+
+![testing-cap-2]({{site.baseurl}}/assets/img/doctorea/testing2.jpg)
+
+![testing-cap-3]({{site.baseurl}}/assets/img/doctorea/testing3.jpg)
+
+---
+
+## In-Deep Technical Report
+
+[Informe](https://drive.google.com/uc?id=10tgfNU4k6MxMlnTvNvLYjJxrpPNjGqea&export=download&authuser=0 )
+
+<embed src="{{site.baseurl}}/assets/docs/doctorea/doctorea_Gonzalez_Budino_Joaquin.pdf#toolbar=0&navpanes=0&scrollbar=0" type="application/pdf" width="100%" height="500px" />
 
 ---
 
@@ -45,7 +70,6 @@ videos of the app working:
   - <https://www.linkedin.com/in/santiago-rufiner-257058177/>
 
 ## Related proyects
-
 
 Aplicación móvil en Android de tipo informativa que permite a los estudiantes consultar el estado de las materias que realiza, cómo encontrar un determinado espacio dentro de la institución, próximos eventos institucionales, aviso de profesores, realización de trámites. Asimismo, permite publicar información relacionada a formación de grupos de estudio o falencias en los distintos espacios de la facultad.
 Orientada principalmente a estudiantes ingresantes o extranjeros con soporte en variedad de idiomas.
