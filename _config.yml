@@ -1,0 +1,39 @@
+title: "Joaquin's Portfolio'"
+description: "This is my personal portfolio where I show to you some proyects that I have worked on" # this means to ignore newlines until "baseurl:"
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: "Joaquin Gonzalez Budiño" # add your name
+author-img: foto-CV.jpg # add your photo
+about-author: "Backend & Mobile Solutions"
+stack1: "MERN Stack"
+stack2: "PHP-Laravel"
+stack3: "Flutter & Kotlin"
+
+ # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: joagzb # add your Github handle
+social-linkedin: joaquin-gonzalez-budino # add your Linkedin handle
+social-email: joa_gzb@hotmail.com # add your Email address
+
+# Disqus
+discus-identifier: joa_gzb # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 6
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
