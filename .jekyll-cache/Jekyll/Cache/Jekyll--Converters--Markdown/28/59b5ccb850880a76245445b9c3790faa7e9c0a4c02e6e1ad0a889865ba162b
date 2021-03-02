@@ -1,0 +1,68 @@
+I"�<blockquote>
+  <p>Desarrollo de un algoritmo inteligente basado en procesamiento digital de señales para el análisis y detección de melanomas malignos.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="problema-y-contexto">Problema y contexto</h2>
+
+<p>Un melanoma maligno tiene la contrapartida de que, si es pronosticado como tal de forma tardía, será muy complicado su tratamiento y puede producir efectos negativos en la salud de una persona.</p>
+
+<p>Ante cualquier caso de duda, es importante hacer un seguimiento del estado del melanoma, aún cuando no se presentan caracteristicas malignas. En el caso de detectar el lunar como maligno, también es importante realizar su seguimiento para evitar evoluciones, ya que el especialista de la salud no tiene posibilidad de revisar al paciente, sino hasta la siguiente visita.</p>
+
+<p>Sucede que la mayoría de los pacientes concurren a un dermatólogo en etapas intermedias o avanzadas de un lunar, es decir, cuando los melanomas ya evidencian algunas características malignas como son el tamaño, color (oscuros y rojizos) y sintomas de sangrado.</p>
+
+<hr />
+
+<h2 id="objetivo">Objetivo</h2>
+
+<p>Este trabajo tuvo el objetivo de desarrollar un método que permita a una persona analizar el estado de un melanoma y acudir a un médico en caso de síntomas sospechosos, o bien, que sirva de apoyo al profesional en la salud para hacer un seguimiento de la lesión.</p>
+
+<hr />
+
+<h2 id="técnicas-utilizadas">Técnicas utilizadas</h2>
+
+<ul>
+  <li>clasificación por color y variaciones de su histograma</li>
+  <li>clasificación por análisis bordes y varianza de Hue (del modelo de color en HSV).</li>
+</ul>
+
+<hr />
+
+<h2 id="implementación-del-algoritmo-y-resultados-técnicos">Implementación del algoritmo y resultados técnicos</h2>
+
+<p>Con las medidas de desempeño calculadas se determinó que el porcentaje medio de aciertos del primer método fue del 75%, mientras que para el segundo fue del 81%.</p>
+
+<p>En el siguiente link se puede acceder al informe que presenta los detalles técnicos de la implementación</p>
+
+<p><a href="https://github.com/guobiloo/Melano-malo/blob/master/Informe_TPfinalPDI_Gonzalez_Kalafatic.pdf">Informe Paper</a></p>
+
+<embed src="/assets/docs/melano-malo/informe.pdf#toolbar=0&amp;navpanes=0&amp;scrollbar=0" type="application/pdf" width="100%" height="600px" />
+
+<hr />
+
+<h2 id="lenguajes-y-librerías-consideradas">Lenguajes y librerías consideradas</h2>
+
+<ul>
+  <li>python 3.7.4</li>
+  <li>OpenCV (librería)</li>
+  <li>MedPy (librería)</li>
+</ul>
+
+<hr />
+
+<h2 id="autores">Autores</h2>
+
+<ul>
+  <li><a href="https://www.linkedin.com/in/emiliano-kalafatic/">Emiliano Kalafatic</a></li>
+  <li><a href="https://www.linkedin.com/in/joaquin-gonzalez-budino/">Joaquin Gonzalez Budiño</a></li>
+</ul>
+
+<hr />
+
+<h2 id="ver-este-proyecto-en-github">Ver este proyecto en GitHub</h2>
+
+<ul>
+  <li><a href="https://github.com/joagzb/Melano-malo">https://github.com/joagzb/Melano-malo</a></li>
+</ul>
+:ET

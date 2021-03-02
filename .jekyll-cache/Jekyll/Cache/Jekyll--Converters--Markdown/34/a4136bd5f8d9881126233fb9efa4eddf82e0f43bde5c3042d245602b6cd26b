@@ -1,0 +1,57 @@
+I"�<blockquote>
+  <p>website made for NiceTV Digital Television service. It is just used for promotional purposes.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="languages-tools-and-frameworks">Languages, tools and frameworks</h2>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>UIkit (framework CSS)</li>
+</ul>
+
+<hr />
+
+<h2 id="website-and-video">Website and Video</h2>
+
+<p>Here’s the website link.</p>
+
+<ul>
+  <li><a href="https://nicetv.com.ar/prueba">NiceTV Website</a></li>
+</ul>
+
+<hr />
+
+<h2 id="proyect-experience">Proyect experience</h2>
+
+<p>After successfully finished a web interface for payments, the company asked me to design their website for promotional purposes.</p>
+
+<p>If you want to deep into the payment web application I mentioned above, here’s the link:</p>
+
+<ul>
+  <li><a href="/NiceTV-web-payment-interface/">NiceTV online payment interface</a></li>
+</ul>
+
+<hr />
+
+<h2 id="ver-este-proyecto-en-github">Ver este proyecto en GitHub</h2>
+
+<ul>
+  <li><a href="https://github.com/guobiloo/landing_nice">https://github.com/guobiloo/landing_nice</a></li>
+</ul>
+
+<hr />
+
+<h2 id="related-proyects">Related proyects</h2>
+
+<p>Here there are some other proyects I have done for the same Company:</p>
+
+<ul>
+  <li><a href="/NiceTV-web-payment-interface/">NiceTV online payment interface</a></li>
+  <li><a href="/NiceTV-streamingTV-app/">NiceTV Phone TV app</a></li>
+  <li><a href="/NiceTV-plataforma_cobradores-app/">NiceTV web app para cobradores e instaladores del servicio</a></li>
+</ul>
+:ET

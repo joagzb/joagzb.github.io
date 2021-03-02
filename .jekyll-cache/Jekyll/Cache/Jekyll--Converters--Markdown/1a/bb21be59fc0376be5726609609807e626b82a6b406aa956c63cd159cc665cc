@@ -1,0 +1,89 @@
+I"<blockquote>
+  <p>Android application made in Java using a design thinking focus to meet students’ desires about Academic events and related information</p>
+</blockquote>
+
+<p>Aplicación móvil Android que permite a los estudiantes consultar todo tipo de información acerca de la institución donde estudia: estado de las materias que realiza, próximos eventos/talleres institucionales, ubicación de distintas oficinas adminitrativas y los trámites que se pueden realizar en ellas. Asimismo, funciona como una pequeña red social donde los estudiantes pueden publicar eventos relacionados a encuentros o grupos de estudio.</p>
+
+<p>Orientada principalmente a estudiantes ingresantes o extranjeros con soporte en variedad de idiomas.</p>
+
+<hr />
+
+<h2 id="video-de-promoción">Video de promoción</h2>
+
+<iframe width="400" height="275" src="https://www.youtube.com/embed/JCkww69nbj4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h2 id="fase-de-requerimientos">Fase de Requerimientos</h2>
+
+<h3 id="design-thinking---perspectiva-del-usuario">Design Thinking - perspectiva del usuario</h3>
+
+<p><img src="/assets/img/AlCursado/canvas.jpg" alt="value-proposal canvas" /></p>
+
+<p>Tanto estudiantes ingresantes y estudiantes extrangeros tienen dificultades en encontrar determinados lugares dentro de la institución, tales como aulas donde cursan, baños, oficinas administrativas, entre otros.
+Por otro lado, son escasos los medios por los cuales se difunden información de interés académico, tales como eventos, talleres, avisos generales, etc. Los pocos medios existentes tienen como desventaja de que son poco habituales de consultarse, las plataformas son únicamente web o móbile y sólo publican contenido de sólo un tópico. Como concecuencia, los estudiantes siguen optando por ir presencialmente a bedelía o a las oficinas administrativas a consultar informacion.</p>
+
+<p>Finalmente, los estudiantes manifiestan el deseo de publicar o recibir información acerca de grupos de estudio, eventos grupales y buscar espacios reservados para tales finalidades.</p>
+
+<h3 id="arquetipo-de-usuario">Arquetipo de Usuario</h3>
+
+<p><img src="/assets/img/AlCursado/Arquetipo-usuario-Fernanda.jpg" alt="Modelo tipo de usuario: Fernanda" /></p>
+
+<p><img src="/assets/img/AlCursado/Arquetipo-usuario-Joel.jpg" alt="Modelo tipo de usuario: Joel" /></p>
+
+<hr />
+
+<h2 id="soluciones-actuales">Soluciones actuales</h2>
+
+<ul>
+  <li><strong>Google translate:</strong> utilizado por los estudiantes extranjeros cuando necesitan traducir alguna frase o quieren expresar algo.</li>
+  <li><strong>Bedelía 2.0:</strong> medio de información digital (web y app móvil) donde se publica noticias acerca de estados de materias, cursados o avisos institucionales (ej: suspensión de clases).</li>
+  <li><strong>Agenda UNL:</strong> sección de la página web de la universidad, donde se muestran los próximos eventos o actividades extracurriculares en la universidad.</li>
+  <li><strong>Moodle, Entorno virtual:</strong> plataforma web para la gestión del contenido de las asignaturas y comunicación entre profesores-estudiantes.</li>
+</ul>
+
+<h3 id="idea-de-solución">Idea de solución</h3>
+
+<p>Realizar una aplicación móvil informativa que permita a los estudiantes realizar consultas de su interés, tales como el estado de las materias que realiza, próximos eventos institucionales, aviso de profesores y realización de trámites. Asimismo, que funcione como un espacio de comunicación entre alumnos como una pequeña red social que permita la formación de grupos de estudio y expresar opiniones o quejas acerca de los distintos espacios de la facultad.</p>
+
+<p>La misma debe estar orientada principalmente a estudiantes ingresantes o extranjeros, con soporte en variedad de idiomas y que brinde instrucciones de como llegar hasta algún punto de interés.</p>
+
+<hr />
+
+<h2 id="fase-de-diseño-del-sistema">Fase de diseño del sistema</h2>
+
+<h3 id="mvp">MVP</h3>
+
+<p><img src="/assets/img/AlCursado/mvp.PNG" alt="MVP" /></p>
+
+<p><img src="/assets/img/AlCursado/mvp2.PNG" alt="MVP" /></p>
+
+<h3 id="mockup">Mockup</h3>
+
+<p><img src="/assets/img/AlCursado/home-and-login-screen.png" alt="MVP" /></p>
+
+<p><img src="/assets/img/AlCursado/events-and-map-screen.png" alt="MVP" /></p>
+
+<h3 id="user-flow">User-Flow</h3>
+
+<p><img src="/assets/img/AlCursado/user-flow.jpg" alt="MVP" /></p>
+
+<hr />
+
+<h2 id="tecnologías-empleadas">Tecnologías empleadas</h2>
+
+<ul>
+  <li>Android 4.4+.</li>
+  <li>Java</li>
+  <li>SQLite</li>
+  <li>Google Maps</li>
+  <li>Firebase - Realtime database &amp;&amp; Messaging</li>
+  <li>Google Auth</li>
+</ul>
+
+<hr />
+
+<h2 id="ver-este-proyecto-en-github">Ver este proyecto en GitHub</h2>
+
+<ul>
+  <li><a href="https://github.com/joagzb/AlCursado">https://github.com/joagzb/AlCursado</a></li>
+</ul>
+:ET

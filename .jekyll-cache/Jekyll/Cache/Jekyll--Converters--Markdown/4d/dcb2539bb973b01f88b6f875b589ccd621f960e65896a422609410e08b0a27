@@ -1,0 +1,68 @@
+I"�<blockquote>
+  <p>web app interface made for NiceTV Digital Television. It’s an online payment gateway where customers can pay their service. It uses MercadoPago API as the transaction handler.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="languages-tools-and-frameworks">Languages, tools and frameworks</h2>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>UIkit (framework de CSS)</li>
+  <li>Laravel-PHP</li>
+  <li>MercadoPago API</li>
+  <li>MySQL</li>
+</ul>
+
+<hr />
+
+<h2 id="website-and-video">Website and Video</h2>
+
+<p>Here’s the web application link.</p>
+
+<ul>
+  <li><a href="https://pagos.nicetv.com.ar">Web application</a></li>
+</ul>
+
+<p>Also, I made a video tutorial as a part of documentation, so customers can watch and learn how to use it:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cfApHVM5ijg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<hr />
+
+<h2 id="proyect-experience">Proyect experience</h2>
+
+<p>I was hire by “Amacom Media” which is a Communications company that offers TV, Internet, radio and news services.</p>
+
+<p>They are going through several automatization processes. One of them is implementing new online payment gateways so they’ve hired me to do it.</p>
+
+<p>They needed an application from scratch: Database design, back-end architecture and frontend designn and I have to choose PHP-Laravel stack owing to they already had an API service built with laravel.</p>
+
+<p>My team were compound by three technicians: A server administrator, a Database administrator and me as a fullstack developer.</p>
+
+<p>Before start programming, I decided to start designing a system scheme using UML to show requests paths, data flow chart and system’s requirements. Then, I made a User-case, gannt and database diagram to keep a better understanding what the proyect’s about, keep tracking goals and leave them as a part of Documentation for futures proyects.</p>
+
+<p>After finishing and validating UML Schemes, I had started programming the web app following the data model and once finished, I ran some automatization testing and real-payments tests. Of course I found some bugs, therefore, I had to fix them all.</p>
+
+<p>Finally, the web app finished sucessfully and it was uploaded to the server to put it on production.</p>
+
+<hr />
+
+<h2 id="related-proyects">Related proyects</h2>
+
+<p>This platform have been fork on github in order to use same frontend design in a different proyect within the Company’s Services:</p>
+
+<ul>
+  <li><a href="https://youtu.be/TF7JsgkqP7c">CVC - Wired TV service</a></li>
+</ul>
+
+<p>Here there are some other proyects I have done for the same Company:</p>
+
+<ul>
+  <li><a href="/NiceTV-website/">NiceTV website</a></li>
+  <li><a href="/NiceTV-streamingTV-app/">NiceTV Phone TV app</a></li>
+  <li><a href="/NiceTV-plataforma_cobradores-app/">NiceTV web app para cobradores e instaladores del servicio</a></li>
+</ul>
+:ET

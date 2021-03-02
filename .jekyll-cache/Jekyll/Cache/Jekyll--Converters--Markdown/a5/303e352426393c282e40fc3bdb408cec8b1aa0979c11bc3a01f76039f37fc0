@@ -1,0 +1,56 @@
+I"�<blockquote>
+  <p>Implementación de sistema de control digital para un lavarropas automático</p>
+</blockquote>
+
+<hr />
+
+<h2 id="video-de-la-simulación">Video de la simulación</h2>
+
+<iframe width="400" height="275" src="https://www.youtube.com/embed/94JvlFr-tns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<hr />
+
+<h2 id="breve-descripción">Breve descripción</h2>
+
+<p>Se ha realizado el diseño esquemático digital de un micro-controlador para el funcionamiento un lavarropas automático que ejecuta los distintos procesos en un lavado (lavado,enjuague y centrifugado) en base lo seleccionado por un usuario. Posteriormente, a modo de testing, se ha cargado dicho controlador a una plaqueta FPGA Basys2 para simular las instrucciones de lavado.</p>
+
+<p>El diseño se realizó describiendo la lógica del comportamiento a través de:</p>
+
+<ul>
+  <li>lenguaje de descripción de hardware (VHD)</li>
+  <li>mediante diagramas esquemáticos.</li>
+</ul>
+
+<p>El primer paso consistió en entender el problema y subdividirlo en sub-módulos lógicos siguiendo la perspectiva Top-Down, que pueda adaptarse a cualquier hardware que se emplee a futuro. Cada sub-módulo describe una necesidad en particular e implementa un programa lógico de comportamiento para satisfacerlo, utilizando el lenguaje VHD. Este enfoque de divide y vencerás -Divide &amp; conquer- favorece la productividad del desarrollo, reutilización de diseños y detectar los errores con mayor rapidez. Sin embargo, posee como desventaja la dificultad en comprender la arquitectura de componentes lógicos, el flujo de datos y sus relaciones.</p>
+
+<p>Para solventar esto, se ha elaborado el diagrama esquemático que permite entender la arquitectura de componentes escenciales y el flujo de comunicacion entre ellos, que permite comprender desde un panorama global, las ecuaciones combinacionales y secuenciales.</p>
+
+<p>Los resultados obtenidos en la simulación se muestran en el video, evidenciando el buen comportamiento del sistema de control diseñado obtenido a partir del diagrama esquemático.</p>
+
+<hr />
+
+<h2 id="informe-de-implementación">Informe de Implementación</h2>
+
+<p>A continuación, se adjunta el informe que detalla la resolución del diseño en PDF</p>
+
+<ul>
+  <li><a href="https://github.com/guobiloo/Control-Digital-Lavarropas/blob/master/informe%20-%20control%20digital%20de%20lavarropas.pdf">ver informe de Implementación PDF</a></li>
+</ul>
+
+<embed src="/assets/docs/lavarropas/informe.pdf#toolbar=0&amp;navpanes=0&amp;scrollbar=0" type="application/pdf" width="100%" height="600px" />
+
+<hr />
+
+<h2 id="autores">Autores</h2>
+
+<ul>
+  <li>Joaquin Gonzalez Budiño</li>
+  <li>Nicolas Giuliano</li>
+</ul>
+
+<hr />
+
+<h2 id="ver-este-proyecto-de-github">Ver este proyecto de GitHub</h2>
+
+<p><a href="https://github.com/joagzb/Control-Digital-Lavarropas">https://github.com/joagzb/Control-Digital-Lavarropas</a></p>
+:ET

@@ -1,0 +1,97 @@
+I"�<blockquote>
+  <p>Desarrollo de un algoritmo inteligente para encontrar el camino mas conveniente entre dos puntos de la ciudad, utilizando colectivos públicos.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="problema-y-contexto">Problema y contexto</h2>
+
+<p>Las personas que visitan ciudades que no conocen mucho, estudian como utilizar medios de transporte públicos poder ir a un determinado sitio. Para ellas, es deseable que cuenten con un servicio que no sólo muestre los distintos puntos atractivos, sino que también indique cómo llegar al destino deseado utilizando medios de transporte públicos.</p>
+
+<p>Para estos casos, existen soluciones de software tales como google maps, que permite consultar cómo llegar desde un punto a otro, considerando el tiempo y la distancia como el costo asociado para ofrecer los mejores resultados. Estos algoritmos hacen uso de técnicas de búsquedas tradicionales, como costo uniforme, cuyo resultado es el mejor a considerar.</p>
+
+<p>La desventaja surge si se considera el translado de un punto a otro, no solo tomando en cuenta el tiempo de demora estimada en el translado, sino también la opción de utilizar transportes públicos y el coste en dinero que esto supone. Por otro lado, en ciudades grandes, no solo se debe tener un buen sistema de respaldo de datos para almacenar todas las calles y puntos de interes, sino también un buen sistema con la capacidad suficiente para procesar y calcular las rutas óptimas ya que el algoritmo de costo uniforme hace un consumo masivo de recursos de memoria.</p>
+
+<hr />
+
+<h2 id="objetivo">Objetivo</h2>
+
+<p>El objetivo de este trabajo fué la búsqueda de estrategias alternativas que permitan encontrar alguno de los mejores trayectos entre un punto y otro de una ciudad, que minimice el tiempo de translado y de dinero  con posibilidad de utilizar el colectivo urbano como transporte público, sin requerir muchos recursos de hardware.</p>
+
+<hr />
+
+<h2 id="metodología">Metodología</h2>
+
+<p>Se propuso aquí el uso de métodos de Inteligencia Colectiva, desde un enfoque de inteligencia Computacional, inspirados en el comportamiento biológico de las hormigas (que poseen un costo espacial acotado -cantidad de hormigas-).</p>
+
+<hr />
+
+<h2 id="idea-de-solución">Idea de solución</h2>
+
+<p>A modo de prototipado, se ha decidido encontrar una solución que permita a una persona conocer cuál es un buen camino a seguir, que le permita ahorrar tiempo (~distancia) y dinero, considerando dos medios de traslado: a pie y mediante colectivos públicos urbanos.
+Además, nos hemos propuesto el objetivo de comparar las distintas variaciones del algoritmo de colonia de hormigas y así poder seleccionar la alternativa mas adecuada.</p>
+
+<hr />
+
+<h2 id="técnicas-utilizadas">Técnicas utilizadas</h2>
+
+<ul>
+  <li>
+    <p>Inteligencia Artificial</p>
+
+    <ul>
+      <li>
+        <p>Inteligencia Computacional</p>
+
+        <ul>
+          <li>Método de búsqueda de caminos óptimos</li>
+          <li>
+            <p>Inteligencia Colectiva Metaheuristico</p>
+
+            <ul>
+              <li>Algoritmos de Colonia de hormigas</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="implementación-del-algoritmo-y-resultados-técnicos">Implementación del algoritmo y resultados técnicos</h2>
+
+<p>Los detalles técnicos acerca de la implementación y los resultados obtenidos quedan expresados en el siguiente informe:</p>
+
+<p><a href="https://github.com/guobiloo/hormigas-urbanas/blob/master/hormigas%20urbanas%20-%202018.pdf">ver informe paper</a></p>
+
+<embed src="/assets/docs/hormigas-urbanas/informe.pdf#toolbar=0&amp;navpanes=0&amp;scrollbar=0" type="application/pdf" width="100%" height="600px" />
+
+<hr />
+
+<h2 id="lenguajes-y-librerías-consideradas">Lenguajes y librerías consideradas</h2>
+
+<ul>
+  <li>python 2.7</li>
+  <li>Matlab</li>
+  <li>OpenStreetMaps</li>
+</ul>
+
+<hr />
+
+<h2 id="autores">Autores</h2>
+
+<ul>
+  <li>Joaquin Gonzalez Budiño</li>
+  <li>Nicolas Giuliano</li>
+</ul>
+
+<hr />
+
+<h2 id="ver-este-proyecto-en-github">Ver este proyecto en GitHub</h2>
+
+<ul>
+  <li><a href="https://github.com/joagzb/hormigas-urbanas">https://github.com/joagzb/hormigas-urbanas</a></li>
+</ul>
+:ET

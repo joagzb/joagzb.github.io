@@ -1,0 +1,54 @@
+I"U<blockquote>
+  <p>Android app prototype made for NiceTV Digital Television service. It allows customers to watch TV using their smartphone and cast the streaming content to a Physical TV connected to a Google chromecast device.</p>
+</blockquote>
+
+<hr />
+
+<h2 id="languages-tools-and-frameworks">Languages, tools and frameworks</h2>
+
+<ul>
+  <li>Android</li>
+  <li>Java</li>
+  <li>Exoplayer (library)</li>
+</ul>
+
+<hr />
+
+<h2 id="goals">Goals</h2>
+
+<p>Develop an Android app using ExoPlayer library that allows customers to watch TV in their smartphones. Furthermore, the app has to have an option that can play content to a chromecast device connected to a TV.</p>
+
+<hr />
+
+<h2 id="prototype-frames">Prototype frames</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="/assets/img/NiceTV/streaming_app/cap_1.jpg" alt="alt-text-1" title="title-1" /></td>
+      <td><img src="/assets/img/NiceTV/streaming_app/cap_2.jpg" alt="alt-text-2" title="title-2" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="related-proyects">Related proyects</h2>
+
+<p>Here there are some other proyects I have done for the same Company:</p>
+
+<ul>
+  <li><a href="https://youtu.be/TF7JsgkqP7c">CVC - Wired TV service</a></li>
+  <li><a href="/NiceTV-website/">NiceTV website</a></li>
+  <li><a href="/NiceTV-web-payment-interface/">NiceTV online payment Interface</a></li>
+  <li><a href="/NiceTV-plataforma_cobradores-app/">NiceTV web app para cobradores e instaladores del servicio</a></li>
+</ul>
+
+<hr />
+
+<h2 id="github">GitHub</h2>
+
+<ul>
+  <li><a href="https://github.com/guobiloo/nicetv-player">view proyect source in GitHub</a></li>
+</ul>
+:ET
