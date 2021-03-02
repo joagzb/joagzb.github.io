@@ -13,29 +13,29 @@ tags: [Android, Flutter, mobile, Firebase, nodejs] # add tag
 
 ## APP frames
 
-![doctorea_app_images1]({{site.baseurl}}/assets/img/doctorea/imagenes_doctorea1.JPG)
+![doctorea_app_images1]({{site.baseurl}}/assets/img/doctorea/imagenes_doctorea1.jpg)
 
-![doctorea_app_images2]({{site.baseurl}}/assets/img/doctorea/imagenes_doctorea2.JPG)
+![doctorea_app_images2]({{site.baseurl}}/assets/img/doctorea/imagenes_doctorea2.jpg)
 
 ---
 
 ## Languages, tools and frameworks
 
-![development_stack]({{site.baseurl}}/assets/img/doctorea/herramientas.JPG)
+![development_stack]({{site.baseurl}}/assets/img/doctorea/herramientas.jpg)
 
 ---
 ## Architecture pattern
 
-![Architecture_pattern]({{site.baseurl}}/assets/img/doctorea/arquitectura.JPG)
+![Architecture_pattern]({{site.baseurl}}/assets/img/doctorea/arquitectura.jpg)
 
 ---
 ## Testing
 
-![testing_cap_1]({{site.baseurl}}/assets/img/doctorea/testing1.JPG)
+![testing_cap_1]({{site.baseurl}}/assets/img/doctorea/testing1.jpg)
 
-![testing_cap_2]({{site.baseurl}}/assets/img/doctorea/testing2.JPG)
+![testing_cap_2]({{site.baseurl}}/assets/img/doctorea/testing2.jpg)
 
-![testing_cap_3]({{site.baseurl}}/assets/img/doctorea/testing3.JPG)
+![testing_cap_3]({{site.baseurl}}/assets/img/doctorea/testing3.jpg)
 
 ---
 
